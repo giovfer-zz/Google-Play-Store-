@@ -1,0 +1,73 @@
+features,coefficients
+Type_Free,0.0
+Type_Paid,-0.9742839167526388
+Size_group_big,0.0
+Size_group_small,-0.19572693953472103
+month_1,-0.29785209954983516
+month_2,-0.13606869876855826
+month_3,0.0
+month_4,-0.0008274382654958395
+month_5,0.0
+month_6,0.12227377374340034
+month_7,0.47427800380896484
+month_8,0.4859306967493251
+month_9,-0.02736155165859522
+month_10,0.0
+month_11,0.0
+month_12,0.0
+Current Ver_clean_levels_high,-0.08299884967847859
+Current Ver_clean_levels_low,-0.007463431041920341
+Current Ver_clean_levels_medium,0.0
+reviews_levels_high,0.8246792252852141
+reviews_levels_low,-5.0255629320205815
+reviews_levels_medium,-1.0748445870379069
+Android Ver_levels_high,0.0
+Android Ver_levels_low,0.0
+Content Rating_Adults only 18+,0.0
+Content Rating_Everyone,0.2612531844730739
+Content Rating_Everyone 10+,0.0
+Content Rating_Mature 17+,-0.23203245804539516
+Content Rating_Teen,-0.1737196450893855
+Content Rating_Unrated,0.0
+Category_ART_AND_DESIGN,0.0
+Category_AUTO_AND_VEHICLES,0.0
+Category_BEAUTY,0.0
+Category_BOOKS_AND_REFERENCE,0.0
+Category_BUSINESS,0.0
+Category_COMICS,0.0
+Category_COMMUNICATION,0.0
+Category_DATING,-0.32576942768016637
+Category_EDUCATION,0.42711275553228406
+Category_ENTERTAINMENT,-0.27664194979134854
+Category_EVENTS,0.0
+Category_FAMILY,-0.09798775250445262
+Category_FINANCE,0.0
+Category_FOOD_AND_DRINK,0.0
+Category_GAME,0.33725910469119647
+Category_HEALTH_AND_FITNESS,0.4628373173387209
+Category_HOUSE_AND_HOME,0.0
+Category_LIBRARIES_AND_DEMO,0.0
+Category_LIFESTYLE,0.0
+Category_MAPS_AND_NAVIGATION,0.0
+Category_MEDICAL,0.0
+Category_NEWS_AND_MAGAZINES,0.0
+Category_PARENTING,0.0
+Category_PERSONALIZATION,0.15848980744150837
+Category_PHOTOGRAPHY,0.2624102699209776
+Category_PRODUCTIVITY,0.10559937035786118
+Category_SHOPPING,0.0
+Category_SOCIAL,0.0
+Category_SPORTS,-0.26788320372084856
+Category_TOOLS,0.0
+Category_TRAVEL_AND_LOCAL,0.0
+Category_VIDEO_PLAYERS,0.0
+Category_WEATHER,0.0
+year_2010,0.0
+year_2011,0.0
+year_2012,0.0
+year_2013,0.0
+year_2014,0.0
+year_2015,0.0
+year_2016,-0.08514029667678119
+year_2017,0.0
+year_2018,0.30836095714792755
